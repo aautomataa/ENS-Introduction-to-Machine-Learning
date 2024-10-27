@@ -1,2 +1,2 @@
 # ENS-Introduction-to-Machine-Learning
-self-learning program
+https://www.di.ens.fr/appstat/spring-2024/
